@@ -54,7 +54,7 @@ trading_bot/
 Clone the repository:
 
 ```bash
-git clone <https://github.com/tanmmayyy/binance_trading_bot>
+git clone https://github.com/tanmmayyy/binance_trading_bot
 cd trading_bot
 ```
 
